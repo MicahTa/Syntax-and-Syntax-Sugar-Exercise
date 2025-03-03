@@ -1,0 +1,15 @@
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.exe
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.deps.json
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.runtimeconfig.json
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.dll
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.pdb
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.sourcelink.json
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.dll
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\refint\SyntaxAndSyntaxSugarExercise.dll
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.pdb
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.genruntimeconfig.cache
+c:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxAndSyntaxSugarExercise.dll
